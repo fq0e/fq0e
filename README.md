@@ -1,16 +1,41 @@
-### Hi there 👋
+<div align="center">    
 
-<!--
-**fq0e/fq0e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ----
 
-Here are some ideas to get you started:
+ ### hi, am fq0e. i am a hobbyist programmer who does cool things i think :3    
+ 
+ 
+ #### *here's some of the stuff i work/worked on*  
+ ----
+ 
+ ### [Friday Night Bloxxin'](https://www.roblox.com/games/7603193259/CHRISTMAS-Friday-Night-Bloxxin)        
+ 
+ ### [Mistful Crimson Morning](https://twitter.com/Mistfulmorning)   
+ 
+ ----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ #### *other info abt me* 
+ 
+ ----
+ 
+ ### i am nonbinary
+ ### i go by *they/them* and *it/its* pronouns **^_^**
+ ### i am A MINOR!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ ### i have 6 cats so thats cool i think
+ ### i program in haxe and lua but im learning c++
+ 
+ ----
+ 
+ #### *other places i am in*
+ 
+ ----
+ 
+ [roblox (fq0e)](https://www.roblox.com/users/1309759982/profile)  
+ [twitter (@_fq0e)](https://twitter.com/_fq0e)  
+ [discord (fq0e#5179)](https://discord.com/)
+ 
+ ----
+ 
+
+ 
+</div>
