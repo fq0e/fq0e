@@ -14,12 +14,12 @@
  
  ----
 
- #### *other info abt me* 
+ #### *other info about me* 
  
  ----
  
  ### i am nonbinary
- ### i go by *they/them* and *it/its* pronouns **^_^**
+ ### i go by *they/them* and *it/its* pronouns
  ### i am A MINOR!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  ### i have 6 cats so thats cool i think
  ### i program in haxe and lua but im learning c++
